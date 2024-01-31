@@ -12,6 +12,6 @@
 
 Во всей верстке **обязательна семантика** в потоке документа. Готовое задание разместить публичным репозиторием на Github и прислать ссылку на этот репозиторий (очень просим **проверить доступность и корректность ссылки** на репозиторий).
 
-[Адаптивный макет](https://www.genome.gov/](https://www.figma.com/file/xr4QN6eE3LmeyukF7VhwAF/test-EX?type=design&node-id=0-1&mode=design&t=Rc0jZEJ9lhpWHBSP-0)https://www.figma.com/file/xr4QN6eE3LmeyukF7VhwAF/test-EX?type=design&node-id=0-1&mode=design&t=Rc0jZEJ9lhpWHBSP-0)
+[Адаптивный макет](https://www.genome.gov/](https://www.figma.com/file/xr4QN6eE3LmeyukF7VhwAF/test-EX?type=design&node-id=0-1&mode=design&t=Rc0jZEJ9lhpWHBSP-0)
 
 [Пример статьи](https://journal.tapigo.ru/articles/benua-ideolog-novoi-xudozestvennoi-epoxi)
